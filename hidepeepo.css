@@ -4,7 +4,7 @@
 }
 
 .membersWrap-3NUR2t {
-  transition-duration: .15s;
+  transition-duration: .20s;
   justify-content: unset;
   min-width: unset;
   width: var(--hidden-user-width);
@@ -12,7 +12,7 @@
 
 .membersGroup-2eiWxl {
   height: 0px;
-  transition-duration: .15s;
+  transition-duration: .20s;
 }
 
 .membersWrap-3NUR2t:hover .membersGroup-2eiWxl{
